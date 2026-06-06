@@ -25,6 +25,9 @@ To implement HASH ALGORITHM
 
 6. Security: The strength of the hash algorithm lies in its collision resistance, ensuring that it is computationally infeasible to find two different messages that produce the same hash value.
 
+## NAME: LIVYA DHARSHINI G
+## REGISTER NUMBER: 2305001013
+
 
 ## Program:
 ```
@@ -71,6 +74,8 @@ int main() {
 ```
 
 ## Output:
+<img width="590" height="236" alt="image" src="https://github.com/user-attachments/assets/2d2115d1-c382-4ad1-bb38-d3e465f0aaa3" />
+
 
 
 ## Result:
